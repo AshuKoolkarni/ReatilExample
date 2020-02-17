@@ -58,26 +58,26 @@ BONUS: Accepts an HTTP PUT request at the same path (/products/{id}), containing
 ### Run examples
 
 Rest API call GET to get product Info without Authentication
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/Get%20prod%20with%20noAuth.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail-original2/Get%20prod%20with%20noAuth.png)
 
 Rest API call POST to get Authentication token
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/Authenticate.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail/Demo-myRetail/Authenticate.png)
 
 Rest API call GET to get product info with authorization token 
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/Get%20prod%20with%20Auth.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail/Demo-myRetail/Get%20prod%20with%20Auth.png)
 
 Rest API call PUT to update product info with authorization token 
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/PUT%20prod%20price.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail/Demo-myRetail/PUT%20prod%20price.png)
 
 Rest API call GET to confirm product info is updated
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/Confirm%20put.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail/Demo-myRetail/Confirm%20put.png)
 
 
 
 ### Test
 	
 	Mockito test - ProductControllerTest
-![alt text](https://github.com/AshuKoolkarni/Practice2/blob/master/Demo-myRetail/Demo-myRetail/Unit%20test%20result.png)
+![alt text](https://github.com/AshuKoolkarni/RetailExample/blob/master/Demo-myRetail/Demo-myRetail/Unit%20test%20result.png)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
